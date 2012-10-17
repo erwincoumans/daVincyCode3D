@@ -1,0 +1,11 @@
+This is daVincyCode3D version 1.1, an implementation of Stewart Trinkle
+by Stephen Berard, Jeff Trinkle, Binh Nguyen, and Ben Roghani.
+
+It uses a modified version of the Bullet 278 SDK with the PATH solver.
+
+It should compile using the Microsoft Visual Studio 2010 using
+dVC3d_Bullet\msvc\2010\BULLET_PHYSICS.sln
+
+A copy of some papers are in the papers folder.
+
+See also http://www.cs.rpi.edu/twiki/view/RoboticsWeb/DVC3d
